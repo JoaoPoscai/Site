@@ -20,5 +20,6 @@ section {
 }
 
 footer {
+    margin-top: 100px;
     box-shadow: 3px 3px 5px rgb(88, 88, 88);
 }

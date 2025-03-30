@@ -6,11 +6,19 @@
 
 body {
     background-color:rgb(226, 213, 244);
-    padding: 100px 600px 500px;
+    padding: 100px 500px 500px;
     margin: auto;
 }
 
 header{
     box-shadow: 3px 3px 5px rgb(88, 88, 88);
     text-align: center;
+}
+
+section {
+    box-shadow: 3px 3px 5px rgb(88, 88, 88);
+}
+
+footer {
+    box-shadow: 3px 3px 5px rgb(88, 88, 88);
 }
